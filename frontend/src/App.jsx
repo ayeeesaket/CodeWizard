@@ -86,6 +86,7 @@ const App = () => {
   const currentQuestion = quizData[selectedVideo.title]?.[currentQuestionIndex];
 
   return (
+    <div className="overflow-hidden no-scrollbar">
     <div className="main h-fullw-full text-white  bg-gray-900 p-6">
       <h1 className="text-3xl font-bold mb-6 text-center">Browse Educational Videos</h1>
 
