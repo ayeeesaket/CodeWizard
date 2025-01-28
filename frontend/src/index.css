@@ -1,1 +1,4 @@
 @import "tailwindcss";
+.name{
+    color: blue;
+}
