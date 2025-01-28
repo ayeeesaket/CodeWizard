@@ -1,4 +1,5 @@
 @import "tailwindcss";
-.name{
-    color: blue;
+.main{
+    background-image: url(../public/Untitled\ design.png);
+    background-size: cover;
 }
